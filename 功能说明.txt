@@ -1,0 +1,7 @@
+﻿1.通过ng-model实现了文本域的数据双向绑定
+2.已经实现外部链接
+templateUrl:'view/aa.html
+3隐藏元素，通过ng-hide的返回值为true实现
+4.粉丝通过orderby实现按照ID排序
+5.实现了数据从控制器读取
+6.导航栏通过ng-repeat实现循环输出
